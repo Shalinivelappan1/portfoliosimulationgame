@@ -17,7 +17,7 @@ CAPITAL_LIMIT = 100000  # ₹1,00,000
 # =================================================
 # HEADER
 # =================================================
-st.title("📊 Portfolio Simulation – Scenario-Based Allocation")
+st.title("📊 Portfolio Simulation – Scenario-Based Allocation-Developed by Prof.Shalini Velappan, IIM Trichy")
 st.caption("Academic simulation | Not investment advice")
 
 # =================================================
